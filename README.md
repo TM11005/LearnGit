@@ -13,3 +13,12 @@ Hello! I am learning Git and GitHub.
 - Commits
 - Branching
 - Pull requests
+# LearnGit
+
+My hands-on journey to learning Git and GitHub.
+
+## What I am learning
+- Git initialization
+- Staging and committing
+- Branching
+- Pushing code to GitHub
